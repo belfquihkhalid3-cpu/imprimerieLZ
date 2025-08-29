@@ -1,0 +1,24 @@
+{"timestamp":"2025-08-27 15:19:18","level":"DEBUG","message":"Configuration charg\u00e9e avec succ\u00e8s","user_id":"anonymous","ip":"::1","context":{"version":"1.0.0","environment":"development"}}
+{"timestamp":"2025-08-27 15:22:12","level":"DEBUG","message":"Configuration charg\u00e9e avec succ\u00e8s","user_id":"anonymous","ip":"::1","context":{"version":"1.0.0","environment":"development"}}
+{"timestamp":"2025-08-27 15:26:11","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:26:19","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:26:32","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:26:37","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:27:06","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:27:12","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:27:16","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 15:27:55","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:46:43","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:46:45","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:46:45","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:46:49","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:47:50","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:55:12","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:55:31","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:55:34","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-27 23:55:35","level":"DEBUG","message":"Configuration chargée avec succès","user_id":1,"ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-28 00:46:55","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-28 00:55:19","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-28 00:55:19","level":"ERROR","message":"Erreur fatale PHP","user_id":"anonymous","ip":"::1","context":{"message":"Uncaught Error: Undefined constant \"BASE_URL\" in C:\\xampp\\htdocs\\copisteria\\includes\\footer.php:85\nStack trace:\n#0 C:\\xampp\\htdocs\\copisteria\\auth\\register.php(492): include()\n#1 {main}\n  thrown","file":"C:\\xampp\\htdocs\\copisteria\\includes\\footer.php","line":85}}
+{"timestamp":"2025-08-28 14:19:22","level":"DEBUG","message":"Configuration chargée avec succès","user_id":"anonymous","ip":"::1","context":{"version":"1.0.1","environment":"development"}}
+{"timestamp":"2025-08-28 14:19:22","level":"ERROR","message":"Erreur fatale PHP","user_id":"anonymous","ip":"::1","context":{"message":"Uncaught Error: Call to undefined function startSecureSession() in C:\\xampp\\htdocs\\copisteria\\auth\\login.php:10\nStack trace:\n#0 {main}\n  thrown","file":"C:\\xampp\\htdocs\\copisteria\\auth\\login.php","line":10}}
